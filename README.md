@@ -1,4 +1,4 @@
-###HELLO I'M BaiCci
+### Hi I`m BaiCci 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=BaiCci&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
